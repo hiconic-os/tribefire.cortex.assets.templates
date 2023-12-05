@@ -6,7 +6,7 @@
 		<version>[2.0,2.1)</version>
 	</parent>
 	<artifactId>js-ux-module-template</artifactId>
-	<version>2.0.3-pc</version>
+	<version>2.0.4-pc</version>
 	<properties>
 	</properties>
 	<dependencies>
