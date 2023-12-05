@@ -1,0 +1,23 @@
+<!-- 
+============================================================================ 
+BRAINTRIBE TECHNOLOGY GMBH - www.braintribe.com Copyright BRAINTRIBE TECHNOLOGY 
+GMBH, Austria, 2002-2019 - All Rights Reserved It is strictly forbidden to 
+copy, modify, distribute or use this code without written permission To this 
+file the Braintribe License Agreement applies. 
+============================================================================ 
+--><project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>tribefire.cortex.assets.templates</groupId>
+        <artifactId>parent</artifactId>
+        <version>[2.0,2.1)</version>
+    </parent>
+    <artifactId>asset-aggregator-template</artifactId>
+    <version>2.0.3-pc</version>
+    <properties>
+        <archetype>library</archetype>
+    </properties>
+    <dependencies>
+        <!-- no dependencies -->
+    </dependencies>
+</project>

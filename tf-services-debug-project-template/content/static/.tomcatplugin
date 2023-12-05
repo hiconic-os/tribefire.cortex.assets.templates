@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tomcatProjectProperties>
+    <rootDir>/context</rootDir>
+    <workDir>/work</workDir>
+    <exportSource>false</exportSource>
+    <reloadable>true</reloadable>
+    <redirectLogger>true</redirectLogger>
+    <updateXml>true</updateXml>
+    <warLocation></warLocation>
+    <extraInfo>%3CJarScanner+scanClassPath%3D%22false%22+scanManifest%3D%22false%22%2F%3E</extraInfo>
+    <mavenClasspath>false</mavenClasspath>
+    <webPath>/tribefire-services</webPath>
+    <webClassPathEntries>
+        <webClassPathEntry>Braintribe.ArtifactClasspathContainer</webClassPathEntry>
+    </webClassPathEntries>
+</tomcatProjectProperties>
