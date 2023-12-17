@@ -13,7 +13,7 @@ file the Braintribe License Agreement applies.
         <version>[2.0,2.1)</version>
     </parent>
     <artifactId>markdown-documentation-template</artifactId>
-    <version>2.0.5</version>
+    <version>2.0.6</version>
     <properties>
         <archetype>library</archetype>
     </properties>
