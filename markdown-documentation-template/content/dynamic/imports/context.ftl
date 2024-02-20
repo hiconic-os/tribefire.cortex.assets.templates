@@ -4,7 +4,7 @@
 
 <#assign _groupPackage = request.groupId?replace('-', '')>
 <#assign artifactIdPascal = support.toPascalCase(request.artifactId, '-')>
-<#assign version = support.getDefaultArtifactVersion(request.installationPath, request.buildSystem)>
+<#assign version = support.getDefaultArtifactVersion(request.buildSystem)>
 
 <#assign nameBaseKebab = request.artifactId?remove_ending('-doc')>
 <#assign nameBaseSnake = nameBaseKebab?replace('-', '_')>
